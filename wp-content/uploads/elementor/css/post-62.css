@@ -9,7 +9,7 @@
 .elementor-62 .elementor-element.elementor-element-5a6a9faa:not(.elementor-motion-effects-element-type-background),
 .elementor-62 .elementor-element.elementor-element-5a6a9faa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
    
-    background-image: url("./../../../../x6.jpg");
+    background-image: url("./../../../../bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -862,7 +862,7 @@ body.rtl .elementor-62 .elementor-element.elementor-element-3acacc45 {
 }
 
 .elementor-62 .elementor-element.elementor-element-2f757f00>.elementor-background-overlay {
-    background-image: url("./../../../../PNGPIG-04.png");
+    background-image: url("./../../../../PNG-01.png");
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: 20%;
